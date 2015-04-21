@@ -5,3 +5,4 @@
 * tabs
 * scrollspy
 * accordion
+* carousel
