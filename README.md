@@ -1,4 +1,4 @@
-# Bootstrap examples (for version 0.00)
+# Bootstrap examples (for version 3.3.4)
 
 * page layout
 * navigation
