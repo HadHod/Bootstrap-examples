@@ -6,3 +6,8 @@
 * scrollspy
 * accordion
 * carousel
+* form
+* buttons
+* validation
+* alerts
+* modal dialog
